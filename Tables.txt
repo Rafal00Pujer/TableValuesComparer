@@ -1,0 +1,315 @@
+<tbody role="alert" aria-live="polite" aria-relevant="all"><tr class="odd">						
+								<td class=" "><label>Sun</label></td>							
+								<td align="right" class=" "><label>153265</label></td>							
+								<td align="right" class=" "><label>1.170.253,50</label></td>							
+								<td align="right" class=" "><label>588</label></td>							
+								<td align="right" class=" "><label>4.421,50</label></td>							
+								<td align="right" class=" "><label>903</label></td>							
+								<td align="right" class=" "><label>1.014,65</label></td>
+                                <td align="right" class=" "><label>563</label></td>
+                                <td align="right" class=" "><label>644,00</label></td>
+								<td align="right" class=" "><label>43455</label></td>
+								<td align="right" class=" "><label>379.886,40</label></td>
+                                <td align="right" class=" "><label>784.930,95</label></td>
+							</tr><tr class="even">						
+								<td class=" "><label>Mon</label></td>							
+								<td align="right" class=" "><label>214407</label></td>							
+								<td align="right" class=" "><label>2.605.759,50</label></td>							
+								<td align="right" class=" "><label>4282</label></td>							
+								<td align="right" class=" "><label>33.338,25</label></td>							
+								<td align="right" class=" "><label>363</label></td>							
+								<td align="right" class=" "><label>776,15</label></td>
+                                <td align="right" class=" "><label>3926</label></td>
+                                <td align="right" class=" "><label>4.554,00</label></td>
+								<td align="right" class=" "><label>139922</label></td>
+								<td align="right" class=" "><label>1.392.531,75</label></td>
+                                <td align="right" class=" "><label>1.179.113,35</label></td>
+							</tr><tr class="odd">						
+								<td class=" "><label>Tue</label></td>							
+								<td align="right" class=" "><label>372298</label></td>							
+								<td align="right" class=" "><label>3.692.176,50</label></td>							
+								<td align="right" class=" "><label>4511</label></td>							
+								<td align="right" class=" "><label>35.581,75</label></td>							
+								<td align="right" class=" "><label>7432</label></td>							
+								<td align="right" class=" "><label>17.466,70</label></td>
+                                <td align="right" class=" "><label>5212</label></td>
+                                <td align="right" class=" "><label>6.129,25</label></td>
+								<td align="right" class=" "><label>180538</label></td>
+								<td align="right" class=" "><label>1.432.913,10</label></td>
+                                <td align="right" class=" "><label>2.206.214,95</label></td>
+							</tr><tr class="even">						
+								<td class=" "><label>Wed</label></td>							
+								<td align="right" class=" "><label>375139</label></td>							
+								<td align="right" class=" "><label>3.502.251,50</label></td>							
+								<td align="right" class=" "><label>4111</label></td>							
+								<td align="right" class=" "><label>31.963,50</label></td>							
+								<td align="right" class=" "><label>214</label></td>							
+								<td align="right" class=" "><label>429,15</label></td>
+                                <td align="right" class=" "><label>4264</label></td>
+                                <td align="right" class=" "><label>5.203,00</label></td>
+								<td align="right" class=" "><label>176004</label></td>
+								<td align="right" class=" "><label>1.353.853,75</label></td>
+                                <td align="right" class=" "><label>2.116.005,10</label></td>
+							</tr><tr class="odd">						
+								<td class=" "><label>Thu</label></td>							
+								<td align="right" class=" "><label>557168</label></td>							
+								<td align="right" class=" "><label>4.861.327,00</label></td>							
+								<td align="right" class=" "><label>6694</label></td>							
+								<td align="right" class=" "><label>55.876,50</label></td>							
+								<td align="right" class=" "><label>242</label></td>							
+								<td align="right" class=" "><label>489,75</label></td>
+                                <td align="right" class=" "><label>7373</label></td>
+                                <td align="right" class=" "><label>8.625,00</label></td>
+								<td align="right" class=" "><label>207459</label></td>
+								<td align="right" class=" "><label>150.631.556,70</label></td>
+                                <td align="right" class=" "><label>-145.826.595,95</label></td>
+							</tr><tr class="even">						
+								<td class=" "><label>Fri</label></td>							
+								<td align="right" class=" "><label>1037938</label></td>							
+								<td align="right" class=" "><label>9.147.315,75</label></td>							
+								<td align="right" class=" "><label>18304</label></td>							
+								<td align="right" class=" "><label>164.271,00</label></td>							
+								<td align="right" class=" "><label>608</label></td>							
+								<td align="right" class=" "><label>989,45</label></td>
+                                <td align="right" class=" "><label>7948</label></td>
+                                <td align="right" class=" "><label>9.906,50</label></td>
+								<td align="right" class=" "><label>375299</label></td>
+								<td align="right" class=" "><label>3.340.768,50</label></td>
+                                <td align="right" class=" "><label>5.641.286,80</label></td>
+							</tr><tr class="odd">						
+								<td class=" "><label>Sat</label></td>							
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>							
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>							
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>
+                                <td align="right" class=" "><label>0</label></td>
+                                <td align="right" class=" "><label>0,00</label></td>
+								<td align="right" class=" "><label>0</label></td>
+								<td align="right" class=" "><label>0,00</label></td>
+                                <td align="right" class=" "><label>0,00</label></td>
+							</tr><tr class="even">
+								<td class=" ">Weekly Total</td>
+								<td align="right" class=" "><label>2710215</label></td>							
+								<td align="right" class=" "><label>24.979.083,75</label></td>
+								<td align="right" class=" "><label>38490</label></td>							
+								<td align="right" class=" "><label>325.452,50</label></td>
+								<td align="right" class=" "><label>9762</label></td>							
+								<td align="right" class=" "><label>21.165,85</label></td>
+                                <td align="right" class=" "><label>29286</label></td>
+                                <td align="right" class=" "><label>35.061,75</label></td>
+                                <td align="right" class=" "><label>1122677</label></td>
+								<td align="right" class=" "><label>158.531.510,20</label></td>							
+								<td align="right" class=" "><label>-133.899.044,80</label></td>
+						</tr><tr class="odd">
+								<td class=" ">Weekly Report</td>
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>
+                                <td align="right" class=" "><label>0</label></td>
+                                <td align="right" class=" "><label>0,00</label></td>
+								<td align="right" class=" "><label>0</label></td>
+								<td align="right" class=" "><label>0,00</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>
+						</tr><tr class="even">
+							<td class=" ">Adjustments</td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td align="right" class=" "><label>0,00</label></td>
+						 </tr><tr class="odd">
+							<td class=" ">Total</td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td align="right" class=" "><label>0,00</label></td>					 	
+						 </tr><tr class="even">
+							<td class=" ">Balance</td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td align="right" class=" "><label>OKAY at <br> 14-SEP-2024&nbsp;&nbsp; 06:55</label></td>
+						 </tr></tbody>
+
+						 <tbody role="alert" aria-live="polite" aria-relevant="all"><tr class="odd">						
+								<td class=" "><label>Sun</label></td>							
+								<td align="right" class=" "><label>153265</label></td>							
+								<td align="right" class=" "><label>1.170.253,50</label></td>							
+								<td align="right" class=" "><label>588</label></td>							
+								<td align="right" class=" "><label>4.421,50</label></td>							
+								<td align="right" class=" "><label>903</label></td>							
+								<td align="right" class=" "><label>1.014,65</label></td>
+                                <td align="right" class=" "><label>563</label></td>
+                                <td align="right" class=" "><label>644,00</label></td>
+								<td align="right" class=" "><label>43455</label></td>
+								<td align="right" class=" "><label>379.886,40</label></td>
+                                <td align="right" class=" "><label>784.930,95</label></td>
+							</tr><tr class="even">						
+								<td class=" "><label>Mon</label></td>							
+								<td align="right" class=" "><label>214407</label></td>							
+								<td align="right" class=" "><label>2.605.759,50</label></td>							
+								<td align="right" class=" "><label>4282</label></td>							
+								<td align="right" class=" "><label>33.338,25</label></td>							
+								<td align="right" class=" "><label>363</label></td>							
+								<td align="right" class=" "><label>776,15</label></td>
+                                <td align="right" class=" "><label>3926</label></td>
+                                <td align="right" class=" "><label>4.554,00</label></td>
+								<td align="right" class=" "><label>139922</label></td>
+								<td align="right" class=" "><label>1.392.531,75</label></td>
+                                <td align="right" class=" "><label>1.179.113,35</label></td>
+							</tr><tr class="odd">						
+								<td class=" "><label>Tue</label></td>							
+								<td align="right" class=" "><label>372298</label></td>							
+								<td align="right" class=" "><label>3.692.176,50</label></td>							
+								<td align="right" class=" "><label>4511</label></td>							
+								<td align="right" class=" "><label>35.581,75</label></td>							
+								<td align="right" class=" "><label>7432</label></td>							
+								<td align="right" class=" "><label>17.466,70</label></td>
+                                <td align="right" class=" "><label>5212</label></td>
+                                <td align="right" class=" "><label>6.129,25</label></td>
+								<td align="right" class=" "><label>180538</label></td>
+								<td align="right" class=" "><label>1.432.913,10</label></td>
+                                <td align="right" class=" "><label>2.206.214,95</label></td>
+							</tr><tr class="even">						
+								<td class=" "><label>Wed</label></td>							
+								<td align="right" class=" "><label>375139</label></td>							
+								<td align="right" class=" "><label>3.502.251,50</label></td>							
+								<td align="right" class=" "><label>4111</label></td>							
+								<td align="right" class=" "><label>31.963,50</label></td>							
+								<td align="right" class=" "><label>214</label></td>							
+								<td align="right" class=" "><label>429,15</label></td>
+                                <td align="right" class=" "><label>4264</label></td>
+                                <td align="right" class=" "><label>5.203,00</label></td>
+								<td align="right" class=" "><label>176004</label></td>
+								<td align="right" class=" "><label>1.353.853,75</label></td>
+                                <td align="right" class=" "><label>2.116.005,10</label></td>
+							</tr><tr class="odd">						
+								<td class=" "><label>Thu</label></td>							
+								<td align="right" class=" "><label>557168</label></td>							
+								<td align="right" class=" "><label>4.861.327,00</label></td>							
+								<td align="right" class=" "><label>6694</label></td>							
+								<td align="right" class=" "><label>55.876,50</label></td>							
+								<td align="right" class=" "><label>242</label></td>							
+								<td align="right" class=" "><label>489,75</label></td>
+                                <td align="right" class=" "><label>7373</label></td>
+                                <td align="right" class=" "><label>8.625,00</label></td>
+								<td align="right" class=" "><label>207459</label></td>
+								<td align="right" class=" "><label>150.631.556,70</label></td>
+                                <td align="right" class=" "><label>-145.826.595,95</label></td>
+							</tr><tr class="even">						
+								<td class=" "><label>Fri</label></td>							
+								<td align="right" class=" "><label>1037938</label></td>							
+								<td align="right" class=" "><label>9.147.315,75</label></td>							
+								<td align="right" class=" "><label>18304</label></td>							
+								<td align="right" class=" "><label>164.271,00</label></td>							
+								<td align="right" class=" "><label>608</label></td>							
+								<td align="right" class=" "><label>989,45</label></td>
+                                <td align="right" class=" "><label>7948</label></td>
+                                <td align="right" class=" "><label>9.906,50</label></td>
+								<td align="right" class=" "><label>375299</label></td>
+								<td align="right" class=" "><label>3.340.768,50</label></td>
+                                <td align="right" class=" "><label>5.641.286,80</label></td>
+							</tr><tr class="odd">						
+								<td class=" "><label>Sat</label></td>							
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>							
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>							
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>
+                                <td align="right" class=" "><label>0</label></td>
+                                <td align="right" class=" "><label>0,00</label></td>
+								<td align="right" class=" "><label>0</label></td>
+								<td align="right" class=" "><label>0,00</label></td>
+                                <td align="right" class=" "><label>0,00</label></td>
+							</tr><tr class="even">
+								<td class=" ">Weekly Total</td>
+								<td align="right" class=" "><label>2710215</label></td>							
+								<td align="right" class=" "><label>24.979.083,75</label></td>
+								<td align="right" class=" "><label>38490</label></td>							
+								<td align="right" class=" "><label>325.452,50</label></td>
+								<td align="right" class=" "><label>9762</label></td>							
+								<td align="right" class=" "><label>21.165,85</label></td>
+                                <td align="right" class=" "><label>29286</label></td>
+                                <td align="right" class=" "><label>35.061,75</label></td>
+                                <td align="right" class=" "><label>1122677</label></td>
+								<td align="right" class=" "><label>158.531.510,20</label></td>							
+								<td align="right" class=" "><label>-133.899.044,80</label></td>
+						</tr><tr class="odd">
+								<td class=" ">Weekly Report</td>
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>
+								<td align="right" class=" "><label>0</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>
+                                <td align="right" class=" "><label>0</label></td>
+                                <td align="right" class=" "><label>0,00</label></td>
+								<td align="right" class=" "><label>0</label></td>
+								<td align="right" class=" "><label>0,00</label></td>							
+								<td align="right" class=" "><label>0,00</label></td>
+						</tr><tr class="even">
+							<td class=" ">Adjustments</td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td align="right" class=" "><label>0,00</label></td>
+						 </tr><tr class="odd">
+							<td class=" ">Total</td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td align="right" class=" "><label>0,00</label></td>					 	
+						 </tr><tr class="even">
+							<td class=" ">Balance</td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td class=" "></td>
+							<td align="right" class=" "><label>OKAY at <br> 14-SEP-2024&nbsp;&nbsp; 06:55</label></td>
+						 </tr></tbody>
